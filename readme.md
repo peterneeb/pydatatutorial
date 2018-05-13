@@ -6,6 +6,8 @@ It contains three sections:
 * Convolutional layers
 * Recurrent layers
 
+Although a notebook, this is a talk and best viewed with the RISE plugin.  
+
 For the tutorial the MNIST dataset and Keras was used. 
 It was not intended to create high performance models, in particular the models tend to generalize rather badly as no dropout has been used.  
 
